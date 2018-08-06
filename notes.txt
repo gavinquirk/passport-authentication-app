@@ -1,0 +1,2 @@
+1. What is a local strategy?
+2. What is a session?
